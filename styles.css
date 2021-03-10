@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  margin: 0
+}
+
+div {
+padding-left: 50px;
+padding-right: 50px;
+}
+
+#title {
+  width: 100%;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.navbar {
+  height: 4rem;
+}
+
+.nav-item {
+  margin: 0;
+  position: relative;
+  text-align: right;
+}
+
+.nav-item li {
+  display: inline;
+  margin-right: 20px;
+}
+
+.bannerText {
+  text-align: center;
+  position: relative;
+  top: 50px
+}
+
+#banner {
+  width: 100%;
+  padding-bottom: 359px;
+}
+
+#products {
+  text-align: center;
+}
