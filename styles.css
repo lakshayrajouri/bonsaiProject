@@ -15,13 +15,20 @@ section {
   width: 100%
 }
 
+.navbar {
+  width: 100%;
+  position:fixed;
+  height: 4rem;
+  top: 0
+}
+
+.navLink {
+  text-decoration: none;
+}
+
 #title {
   padding-left: 50px;
   padding-right: 50px;
-}
-
-.navbar {
-  height: 4rem;
 }
 
 .nav-item {
@@ -35,11 +42,13 @@ section {
   margin-right: 20px;
 }
 
-.parentBanner {
+
+.banner {
   background-image: url("./images/bannerImg.png");
   width: 100%;
   height: 571px;
   text-align: center;
+  margin-top: 50px
 }
 
 
